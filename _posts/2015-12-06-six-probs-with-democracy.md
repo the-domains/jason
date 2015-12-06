@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://techcrunch.com/2015/10/28/six-problems-with-our-democracy-and-whos-working-to-fix-them/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'As another Presidential debate looms, issues ranging from gerrymandering to political influence, to representation and even voter registration, probably won’t b'
-datePublished: '2015-12-06T23:50:46.969Z'
-dateModified: '2015-12-06T23:50:34.021Z'
+datePublished: '2015-12-06T23:52:55.192Z'
+dateModified: '2015-12-06T23:52:48.844Z'
 author: []
 title: Six probs with democracy
 authors: []
