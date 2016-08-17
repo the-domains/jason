@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jason Putorti]]></title>
+        <description><![CDATA[Jason Putorti]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 17:31:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trump reshuffles staff in his own image]]></title>
+            <description><![CDATA[<article><h1>Trump reshuffles staff in his own image</h1><p>Donald Trump, following weeks of gnawing agitation over his advisers' attempts to temper his style, moved late Tuesday to overhaul his struggling campaign by rebuffing those efforts and elevating two longtime associates who have encouraged his combative populism.</p><img src="https://images.washingtonpost.com/?url=http://img.washingtonpost.com/blogs/post-politics/files/2016/08/590520338.jpg&w=1484&op=resize&opt=1&filter=antialias"></article>]]></description>
+            <link>https://www.washingtonpost.com/news/post-politics/wp/2016/08/17/trump-reshuffles-staff-in-his-own-image/?hpid=hp_hp-top-table-main_pp-trumpstaff-310am%3Ahomepage%2Fstory</link>
+            <guid isPermaLink="false">8a0334ee-b721-4898-b4ee-edb3b65eefb3</guid>
+            <pubDate>Wed, 17 Aug 2016 17:30:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
